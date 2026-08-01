@@ -1,1 +1,1 @@
-# travelguy
+I have never used this code language before, so I was excited to try! My friends reccomended me a tutorial, so I tried it out here. I also implemented plenty of my own customizations + features! It's just a little bleu character. He is made with p5js and lots of love!Use this by clicking on the screen to made the character blink and smile. 
